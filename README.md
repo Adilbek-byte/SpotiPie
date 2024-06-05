@@ -1,0 +1,2 @@
+# SpotiPie
+Our collaborative work on making up a way of implementing design patterns 
